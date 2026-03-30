@@ -1,6 +1,1 @@
-# -*- coding: utf-8 -*-
-Created on Mon Mar 30 14:42:35 2026
-
-@author: 00021771
-
 streamlit==1.29.0
