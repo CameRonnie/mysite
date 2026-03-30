@@ -1,8 +1,1 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 30 14:46:39 2026
-
-@author: 00021771
-"""
-
 3.12
